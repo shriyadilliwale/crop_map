@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986608857019",
+    "project_id": "farm-project-11876",
+    "storage_bucket": "farm-project-11876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986608857019:android:2e3ae4215476ae166e1e9e",
+        "android_client_info": {
+          "package_name": "com.example.agro_analyzer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986608857019-tk3uc7s4uvvvcjibmghgn9a7nf84ccei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHfIUM5kXYN1rCSNfPdhQ6T-xnLXn4-hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986608857019-tk3uc7s4uvvvcjibmghgn9a7nf84ccei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
